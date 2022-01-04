@@ -13,6 +13,9 @@ https://dacon.io/competitions/official/235624/overview/description
 
 # Result
 
+- 빨간선 : 분석가가 정한 threshold
+- 주황선 : 실제 anomaly가 발생한 시점
+
 <img src="./png/1.png"
      sizes="(min-width: 600px) 100px, 50vw">
 
@@ -37,5 +40,3 @@ make 2D dataset to 3D tensor.
      sizes="(min-width: 600px) 100px, 50vw">
 
 # model : Bidirectional LSTM
-
-x

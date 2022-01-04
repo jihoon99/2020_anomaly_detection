@@ -20,10 +20,6 @@ https://dacon.io/competitions/official/235624/overview/description
 
 Python, numpy, pandas, tensorflow 2.x
 
-# 기술
-
-Python, numpy, pandas, tensorflow 2.x
-
 # 기간
 
 2020.08-2020.09
